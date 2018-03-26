@@ -4,19 +4,18 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+March 25, 2018
 
 ### Student Name:  
-(First and Last Name)
+Trevor McCowen  
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+Utilizing JavaScript we created a dynamic and interactive photo gallery with multiple image display options and a scrolling effect.
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://tmccowen.github.io/lesson6_javascript3/. 
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. Using nodes to give the options of viewing three or five images at once in the photo gallery.
+2. Using clone nodes in order to avoid having to start from scratch every time a new element is introduced.
+3. Modifying the contents of a web page based on external events, such as clicks or interactions.
